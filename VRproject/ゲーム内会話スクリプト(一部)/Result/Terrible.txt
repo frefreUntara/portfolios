@@ -1,0 +1,3 @@
+Text/通常>また明日ね
+Text/悲しい>…送ってくれてありがと
+Scene/Load>Result

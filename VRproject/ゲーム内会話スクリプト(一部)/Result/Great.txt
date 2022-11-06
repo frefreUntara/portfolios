@@ -1,0 +1,3 @@
+Text/笑顔>また明日！
+Text/笑顔>今日は送ってくれてありがと！
+Scene/Load>Result
